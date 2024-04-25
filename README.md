@@ -6,3 +6,5 @@
 - bom com calculo
 - repsonsavel
 - paixão pela programação
+
+![Programação](https://www.valuehost.com.br/blog/wp-content/uploads/2016/10/programming-770x438.jpg.webp)
